@@ -1,0 +1,3 @@
+Name: Alex
+Favorite color: green
+Day : 4
